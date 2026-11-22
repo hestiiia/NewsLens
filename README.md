@@ -1,7 +1,7 @@
 # ML-Project-CT4101
 ## Can a Machine Learning Model Classify the credibility of a News Article?
 
-The purpose of this project is to develop a multi-class logistic regression model trained on data from the [Fake News Corpus](https://github.com/several27/FakeNewsCorpus) to predict the news type (e.g. fake, satire, bias, conspiracy) based on the title and contents of the news article. 
+The purpose of this project is to develop a multi-classification model trained on data from the [Fake News Corpus](https://github.com/several27/FakeNewsCorpus) to predict the news type (e.g. fake, satire, bias, conspiracy) based on the title and contents of the news article. 
 
 **Do note that this is an ongoing project, and the work you see here is still in progress.**
 
