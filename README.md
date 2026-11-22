@@ -1,7 +1,6 @@
-# ML-Project-CT4101
-## Can a Machine Learning Model Classify the credibility of a News Article?
+# Can a Machine Learning Model Classify the credibility of a News Article?
 
-The purpose of this project is to develop a multi-classification model trained on data from the [Fake News Corpus](https://github.com/several27/FakeNewsCorpus) to predict the news type (e.g. fake, satire, bias, conspiracy) based on the title and contents of the news article. 
+The purpose of this project is to develop multi-classification models trained on data from the [Fake News Corpus](https://github.com/several27/FakeNewsCorpus) to determine whether multiclassification models can distinguish article types based on their content (e.g. fake, satire, bias, conspiracy).
 
 **Do note that this is an ongoing project, and the work you see here is still in progress.**
 
@@ -56,8 +55,7 @@ To reproduce the results, run the notebooks in the following order:
 
 Todo:
 
-- Draft final 3,000 word report
-- Clean up the notebooks - go to DISC for guidance on what processes belongs where
-- Refactor repetitive code into reusable scripts
-- Train a random forest classifier (time permitting)
-- Record 5 minute demonstration video for the final submission
+- Draft final  report
+- Clean up the notebooks
+- Refactor repetitive code
+- Record 5 minute demonstration video
