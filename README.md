@@ -26,7 +26,7 @@ The original dataset is approximately 27GB in size and contains over 9 million r
 ## Setup Instructions
 1. Clone the repository and navigate into the folder:
 ```bash
-git clone https://github.com/hestiiia/ML-Project-CT4101
+git clone https://github.com/hestiiia/NewsLens
 ```
 2. [Download](https://github.com/several27/FakeNewsCorpus/releases/tag/v1.0) the full FakeNewsCorpus dataset from here.
 
